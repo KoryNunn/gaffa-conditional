@@ -15,6 +15,4 @@ Conditional.prototype.trigger = function(parent, scope, event) {
     }
 };
 
-
-
 module.exports =  Conditional;
